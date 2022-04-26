@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maquetaweb", "maquetaweb\maquetaweb.csproj", "{28F29A0B-9C13-4401-9D35-A0D6C8837240}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaquetaWeb", "MaquetaWeb.csproj", "{DCA4A541-B7DD-424B-9418-06D19838C485}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{28F29A0B-9C13-4401-9D35-A0D6C8837240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28F29A0B-9C13-4401-9D35-A0D6C8837240}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28F29A0B-9C13-4401-9D35-A0D6C8837240}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28F29A0B-9C13-4401-9D35-A0D6C8837240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA4A541-B7DD-424B-9418-06D19838C485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA4A541-B7DD-424B-9418-06D19838C485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA4A541-B7DD-424B-9418-06D19838C485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA4A541-B7DD-424B-9418-06D19838C485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {29FAEADC-1C63-496E-93FA-CF40960C5518}
+		SolutionGuid = {7271D572-8CB9-4A31-93CD-3E025891B6FE}
 	EndGlobalSection
 EndGlobal
